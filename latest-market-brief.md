@@ -6,17 +6,17 @@
 
 **Latest verified report date:** 2026-10-07
 
-**Source status:** Current
+**Source status:** Awaiting new WGM report
 
-**Source state:** `current`
+**Source state:** `awaiting_report`
 
-**Source message:** SHUCK checked WGM and the latest verified report remains current.
+**Source message:** SHUCK checked WGM, but a newer report has not been published yet.
 
-**Latest checked at:** 2026-10-08T02:42:42.711183+00:00
+**Latest checked at:** 2026-10-08T05:59:33.33036+00:00
 
 **Latest verified at:** 2026-10-08T01:53:50.363221+00:00
 
-**Public brief generated at:** 2026-10-08T02:51:51.244830+00:00
+**Public brief generated at:** 2026-10-08T06:27:51.726626+00:00
 
 ## Corn
 
