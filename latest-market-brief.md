@@ -12,11 +12,11 @@
 
 **Source message:** SHUCK checked WGM and the latest verified report remains current.
 
-**Latest checked at:** 2026-10-20T01:51:14.698348+00:00
+**Latest checked at:** 2026-10-20T04:45:51.360242+00:00
 
 **Latest verified at:** 2026-10-20T01:04:53.301786+00:00
 
-**Public brief generated at:** 2026-10-20T02:01:09.191370+00:00
+**Public brief generated at:** 2026-10-20T05:07:20.762791+00:00
 
 ## Corn
 
