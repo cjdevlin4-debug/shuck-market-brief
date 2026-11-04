@@ -10,13 +10,13 @@
 
 **Source state:** `current`
 
-**Source message:** Latest WGM market data was successfully collected and verified.
+**Source message:** SHUCK checked WGM and the latest verified report remains current.
 
-**Latest checked at:** 2026-11-04T02:16:38.285214+00:00
+**Latest checked at:** 2026-11-04T03:01:19.800814+00:00
 
 **Latest verified at:** 2026-11-04T02:16:38.285214+00:00
 
-**Public brief generated at:** 2026-11-04T02:30:29.438210+00:00
+**Public brief generated at:** 2026-11-04T03:08:55.179089+00:00
 
 ## Corn
 
