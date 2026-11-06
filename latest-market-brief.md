@@ -4,47 +4,47 @@
 
 **Preferred market:** WGM Prentice
 
-**Latest verified report date:** 2026-11-04
+**Latest verified report date:** 2026-11-05
 
-**Source status:** Awaiting new WGM report
+**Source status:** Current
 
-**Source state:** `awaiting_report`
+**Source state:** `current`
 
-**Source message:** SHUCK checked WGM, but a newer report has not been published yet.
+**Source message:** SHUCK checked WGM and the latest verified report remains current.
 
-**Latest checked at:** 2026-11-05T06:40:34.722766+00:00
+**Latest checked at:** 2026-11-06T03:27:24.037308+00:00
 
-**Latest verified at:** 2026-11-05T02:22:06.450401+00:00
+**Latest verified at:** 2026-11-06T02:22:41.173857+00:00
 
-**Public brief generated at:** 2026-11-05T07:10:34.566889+00:00
+**Public brief generated at:** 2026-11-06T03:35:42.816469+00:00
 
 ## Corn
 
 | Delivery | Cash | Basis | Futures | Futures Price | Cash Strength | Basis Strength | Prentice Competitiveness | Regional Signal | Prior State Date | Cash Change | Basis Change | Futures Change |
 |---|---:|---:|---|---:|---|---|---|---|---|---:|---:|---:|
-| Nov 26 | $4.26 | -0.18 | CZ26 | $4.44 | Extremely high | Weak | Very strong | MATERIAL_DISAGREEMENT | 2026-11-03 | +0.01 | 0.00 | +0.02 |
-| Dec 26 | $4.28 | -0.16 | CZ26 | $4.44 | Extremely high | Weak | Very strong | MATERIAL_DISAGREEMENT | 2026-11-03 | +0.02 | 0.00 | +0.02 |
-| Jan 27 | $4.35 | -0.23 | CH27 | $4.58 | Extremely high | Slightly weak | Slightly strong | MATERIAL_DISAGREEMENT | 2026-11-03 | +0.02 | 0.00 | +0.02 |
-| Feb 27 | $4.37 | -0.21 | CH27 | $4.58 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
-| Mar 27 | $4.40 | -0.18 | CH27 | $4.58 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
-| Apr 27 | $4.41 | -0.26 | CK27 | $4.67 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
-| May 27 | $4.43 | -0.23 | CK27 | $4.67 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
-| Jun 27 | $4.49 | -0.25 | CN27 | $4.74 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
-| Jul 27 | $4.49 | -0.25 | CN27 | $4.74 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
-| Oct 27 | $4.51 | -0.35 | CZ27 | $4.86 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+| Nov 26 | $4.22 | -0.18 | CZ26 | $4.40 | Extremely high | Weak | Very strong | MATERIAL_DISAGREEMENT | 2026-11-04 | -0.04 | 0.00 | -0.04 |
+| Dec 26 | $4.24 | -0.16 | CZ26 | $4.40 | Extremely high | Weak | Very strong | MATERIAL_DISAGREEMENT | 2026-11-04 | -0.04 | 0.00 | -0.04 |
+| Jan 27 | $4.31 | -0.23 | CH27 | $4.54 | Extremely high | Slightly weak | Slightly strong | MATERIAL_DISAGREEMENT | 2026-11-04 | -0.04 | 0.00 | -0.04 |
+| Feb 27 | $4.33 | -0.21 | CH27 | $4.54 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+| Mar 27 | $4.37 | -0.18 | CH27 | $4.54 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+| Apr 27 | $4.37 | -0.26 | CK27 | $4.63 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+| May 27 | $4.40 | -0.23 | CK27 | $4.63 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+| Jun 27 | $4.46 | -0.25 | CN27 | $4.71 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+| Jul 27 | $4.46 | -0.25 | CN27 | $4.71 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+| Oct 27 | $4.49 | -0.35 | CZ27 | $4.83 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
 
 ## Soybeans
 
 | Delivery | Cash | Basis | Futures | Futures Price | Cash Strength | Basis Strength | Prentice Competitiveness | Regional Signal | Prior State Date | Cash Change | Basis Change | Futures Change |
 |---|---:|---:|---|---:|---|---|---|---|---|---:|---:|---:|
-| Nov 26 | $11.66 | -0.36 | SF27 | $12.02 | High | Normal | Competitive | CONSISTENT | 2026-11-03 | -0.06 | +0.06 | -0.12 |
-| Dec 26 | $11.72 | -0.30 | SF27 | $12.02 | High | Normal | Strong | CONSISTENT | 2026-11-03 | -0.12 | 0.00 | -0.12 |
-| Jan 27 | $11.77 | -0.25 | SF27 | $12.02 | High | Normal | Slightly weak | CONSISTENT | 2026-11-03 | -0.11 | +0.01 | -0.12 |
-| Feb 27 | $11.80 | -0.30 | SH27 | $12.10 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
-| Mar 27 | $11.81 | -0.29 | SH27 | $12.10 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
-| Apr 27 | $11.82 | -0.38 | SK27 | $12.20 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
-| May 27 | $11.86 | -0.34 | SK27 | $12.20 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
-| Jul 27 | $11.91 | -0.36 | SN27 | $12.27 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+| Nov 26 | $11.52 | -0.36 | SF27 | $11.88 | High | Normal | Competitive | CONSISTENT | 2026-11-04 | -0.14 | 0.00 | -0.14 |
+| Dec 26 | $11.58 | -0.30 | SF27 | $11.88 | High | Normal | Strong | CONSISTENT | 2026-11-04 | -0.14 | 0.00 | -0.14 |
+| Jan 27 | $11.63 | -0.25 | SF27 | $11.88 | High | Normal | Slightly weak | CONSISTENT | 2026-11-04 | -0.14 | 0.00 | -0.14 |
+| Feb 27 | $11.66 | -0.30 | SH27 | $11.96 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+| Mar 27 | $11.67 | -0.29 | SH27 | $11.96 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+| Apr 27 | $11.68 | -0.38 | SK27 | $12.06 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+| May 27 | $11.72 | -0.34 | SK27 | $12.06 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+| Jul 27 | $11.79 | -0.36 | SN27 | $12.14 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
 
 ## Interpretation rules
 
