@@ -16,7 +16,7 @@
 
 **Latest verified at:** 2026-11-24T05:58:01.482919+00:00
 
-**Public brief generated at:** 2026-11-24T10:14:29.851039+00:00
+**Public brief generated at:** 2026-11-24T14:05:52.449463+00:00
 
 ## Corn
 
